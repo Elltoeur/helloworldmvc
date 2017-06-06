@@ -5,13 +5,6 @@
     <artifactId>helloworldmaven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>helloworldmvc.controller</artifactId>
-  <name>controller</name>
-  <dependencies>
-  	<dependency>
-  		<groupId>fr.exia</groupId>
-  		<artifactId>helloworldmvc.contract</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
-  </dependencies>
+  <artifactId>helloworldmvc.contract</artifactId>
+  <name>contract</name>
 </project>

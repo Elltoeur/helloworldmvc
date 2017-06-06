@@ -23,10 +23,10 @@
     </dependency>
   </dependencies>
   <modules>
-  	<module>helloworldmvc.controller</module>
-  	<module>helloworldmvc.model</module>
   	<module>helloworldmvc.view</module>
-  	<module>helloworldmvc.Contract</module>
+  	<module>helloworldmvc.controller</module>
+  	<module>helloworldmvc.contract</module>
+  	<module>helloworldmvc.model</module>
   	<module>helloworldmvc.main</module>
   </modules>
 </project>
